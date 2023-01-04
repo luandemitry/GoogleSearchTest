@@ -8,9 +8,7 @@ Google Search é uma ferramenta de pesquisas na internet além do site mais visi
 
 |Funcionalidades| Comportamento esperado | Verificações |Critérios de aceite|
 |---------------|------------------------|--------------|-------------------|
-|Pesquisas mais comuns|Ao digitar na barra de pesquisa da ferramenta, a mesma deve exibir os 10 termos mais comuns comumente com o termo digitado.|*As pesquisas são clicáveis ou não
-*Número de termos encontrados
-*Se algum termo foi encontrado|
+|Pesquisas mais comuns|Ao digitar na barra de pesquisa da ferramenta, a mesma deve exibir os 10 termos mais comuns comumente com o termo digitado.|*As pesquisas são clicáveis ou não *Número de termos encontrados *Se algum termo foi encontrado|
 
  
 
