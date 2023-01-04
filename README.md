@@ -1,10 +1,10 @@
 # Plano de Testes - Google Search
 
 
-##1 Introdução
+## 1 Introdução
 Google Search é uma ferramenta de pesquisas na internet além do site mais visitado do mundo, possui funcionalidades como: link para a definição da maioria das pesquisas, incluindo as palavras do dicionário, o número de resultados que você obteve em sua pesquisa, links para outras pesquisas, dentre outras.
 
-##2 Funcionalidades
+## 2 Funcionalidades
 
 |Funcionalidades| Comportamento esperado | Verificações |Critérios de aceite|
 |---------------|------------------------|--------------|-------------------|
